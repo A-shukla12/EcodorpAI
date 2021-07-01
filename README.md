@@ -1,1 +1,4 @@
 # EcodorpAI
+
+This project has been prepared by the students of Fontys University of Applied Sciences, PXL University of Applied Sciences and Arts and Belgium Campus Itversity who are a part of the Mega Project correlation with the United Nation Organization. The project introduces the reader to a revolutionary technology of EcoDorpAI developed together with the aim of purifying the air quality at the houses at EcoVillage situated in Boekel, Netherlands.
+The EcoDorpAI can be defined as the needed best friend as it uses the sensor data of various key air parameters such as Temperature, CO2, Humidity and so on for calculating and predicting the values of them along with the Air Quality Index Magnitude. In addition, personalization is the key priority as we want the user to feel that the recommendations for improving the AQI in his room are being made for him to help him lead a better sustainable life along with his family.
